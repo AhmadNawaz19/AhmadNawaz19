@@ -1,6 +1,6 @@
 # Hi there, I'm AhmadNawaz 👋
 
-I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React.js, Next.js, node.js, Express.js, MySQL, Python, XML, PostgresSQL. I have experience with version control systems, particularly Git and GitHub, for managing code, collaborating on projects, and maintaining project history efficiently
+I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React.js, Next.js, node.js, Express.js, MySQL, Python, XML, PostgresSQL, Cloudinary, Firebase, 0auth. I have experience with version control systems, particularly Git and GitHub, for managing code, collaborating on projects, and maintaining project history efficiently
 
 ## 🛠️ Tech Stack
 <img width="70" height="70" alt="html" src="https://github.com/user-attachments/assets/1f616742-5e0c-4d8e-a91b-5cef21994c5a" />
