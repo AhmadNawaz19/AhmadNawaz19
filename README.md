@@ -15,8 +15,8 @@ I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React
 <img width="70" height="70" alt="xml" src="https://github.com/user-attachments/assets/30f19e31-0b72-467e-b8df-cc5ca5d04a7c" />
 <img width="70" height="70" alt="postgre" src="https://github.com/user-attachments/assets/e32ea717-bb2c-4974-816c-539cf58b11fd" />
 <img width="70" height="70" alt="odoo" src="https://github.com/user-attachments/assets/95b233a0-7d06-45e6-acc5-d2dbbbb29156" />
-<img width="447" height="447" alt="firebase" src="https://github.com/user-attachments/assets/821da97e-879d-43d2-a238-2b639c716578" />
-<img width="447" height="447" alt="clou" src="https://github.com/user-attachments/assets/4bcda304-a88b-4ebd-9ade-df43af576b65" />
+<img width="70" height="70" alt="firebase" src="https://github.com/user-attachments/assets/821da97e-879d-43d2-a238-2b639c716578" />
+<img width="70" height="70" alt="clou" src="https://github.com/user-attachments/assets/4bcda304-a88b-4ebd-9ade-df43af576b65" />
 
 
 
