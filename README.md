@@ -26,4 +26,4 @@ I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React
 ![Top Languages](https://github-readme-stats-three-sigma-30.vercel.app/api/top-langs/?username=AhmadNawaz19&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nawaz-7985a4363/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nawaz-7985a4363/)
