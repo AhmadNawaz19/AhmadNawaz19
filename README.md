@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm AhmadNawaz 👋
 
-I'm a [Your Role, e.g., Software Engineer] who loves [Your Interests, e.g., building web apps and contributing to open source][citation:5].
+I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React.js, Next.js, node.js, Express.js, MySQL, Python, XML, PostgresSQL. I have experience with version control systems, particularly Git and GitHub, for managing code, collaborating on projects, and maintaining project history efficiently
 
 ## 🛠️ Tech Stack
 <img width="70" height="70" alt="html" src="https://github.com/user-attachments/assets/1f616742-5e0c-4d8e-a91b-5cef21994c5a" />
@@ -15,15 +15,10 @@ I'm a [Your Role, e.g., Software Engineer] who loves [Your Interests, e.g., buil
 <img width="70" height="70" alt="xml" src="https://github.com/user-attachments/assets/30f19e31-0b72-467e-b8df-cc5ca5d04a7c" />
 <img width="70" height="70" alt="postgre" src="https://github.com/user-attachments/assets/e32ea717-bb2c-4974-816c-539cf58b11fd" />
 <img width="70" height="70" alt="odoo" src="https://github.com/user-attachments/assets/95b233a0-7d06-45e6-acc5-d2dbbbb29156" />
+<img width="447" height="447" alt="firebase" src="https://github.com/user-attachments/assets/821da97e-879d-43d2-a238-2b639c716578" />
+<img width="447" height="447" alt="clou" src="https://github.com/user-attachments/assets/4bcda304-a88b-4ebd-9ade-df43af576b65" />
 
 
-
-
-
-
-## 🚀 Currently working on
-*   [Project 1]: A short description
-*   [Project 2]: A short description[citation:4][citation:7]
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)[citation:1][citation:6]
