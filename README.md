@@ -3,9 +3,8 @@
 I'm a [Your Role, e.g., Software Engineer] who loves [Your Interests, e.g., building web apps and contributing to open source][citation:5].
 
 ## 🛠️ Tech Stack
-*   **Languages:** Python, JavaScript, C++
-*   **Frameworks:** React, Django
-*   **Tools:** Git, Docker, VS Code[citation:5][citation:7]
+<img width="225" height="225" alt="html" src="https://github.com/user-attachments/assets/1f616742-5e0c-4d8e-a91b-5cef21994c5a" />
+
 
 ## 🚀 Currently working on
 *   [Project 1]: A short description
@@ -15,5 +14,4 @@ I'm a [Your Role, e.g., Software Engineer] who loves [Your Interests, e.g., buil
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)[citation:1][citation:6]
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link)
+[![LinkedIn](https://www.linkedin.com/in/ahmad-nawaz-7985a4363/)](link)
