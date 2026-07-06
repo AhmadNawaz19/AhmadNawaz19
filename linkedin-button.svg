@@ -16,7 +16,7 @@
         fill="none" stroke="white" stroke-width="2" 
         class="border-animation" />
   <!-- LinkedIn Text -->
-  <text x="50" y="20" font-family="Arial, sans-serif" 
+  <text x="20" y="20" font-family="Arial, sans-serif" 
         font-size="14" fill="white" font-weight="bold">
     LinkedIn
   </text>
