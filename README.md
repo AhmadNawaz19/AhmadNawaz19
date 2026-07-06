@@ -11,6 +11,10 @@ I'm a [Your Role, e.g., Software Engineer] who loves [Your Interests, e.g., buil
 <img width="70" height="70" alt="express" src="https://github.com/user-attachments/assets/63ec73fa-630a-4ef9-881a-245f2dd0bcb9" />
 
 <img width="70" height="70" alt="my" src="https://github.com/user-attachments/assets/44104b6c-9c42-4991-8b78-55c0ef95798e" />
+<img width="70" height="70" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4e4c7dfc-6364-4a74-ac1b-74f98ebe096c" />
+<img width="70" height="70" alt="xml" src="https://github.com/user-attachments/assets/30f19e31-0b72-467e-b8df-cc5ca5d04a7c" />
+<img width="70" height="70" alt="postgre" src="https://github.com/user-attachments/assets/e32ea717-bb2c-4974-816c-539cf58b11fd" />
+<img width="70" height="70" alt="odoo" src="https://github.com/user-attachments/assets/95b233a0-7d06-45e6-acc5-d2dbbbb29156" />
 
 
 
