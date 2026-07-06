@@ -29,3 +29,6 @@ I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React
 <a href="https://www.linkedin.com/in/ahmad-nawaz-7985a4363/">
   <img src="linkedin-button.svg" alt="LinkedIn" width="120" height="30">
 </a>
+<a href="https://www.hackerrank.com/profile/AhmadNawaz">
+  <img src="linkedin-button.svg" alt="HackerRank" width="120" height="30">
+</a>
