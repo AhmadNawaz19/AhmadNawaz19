@@ -21,8 +21,9 @@ I am full stack developer. 1+ year of experience in HTML, CSS, JavaScript, React
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmadNawaz19)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmadNawaz19&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-three-sigma-30.vercel.app/api?username=AhmadNawaz19&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-three-sigma-30.vercel.app/api/top-langs/?username=AhmadNawaz19&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/ahmad-nawaz-7985a4363/)](link)
