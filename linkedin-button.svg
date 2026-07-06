@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="30" viewBox="0 0 120 30">
+  <style>
+    @keyframes pulse {
+      0% { stroke-opacity: 0.3; }
+      50% { stroke-opacity: 1; }
+      100% { stroke-opacity: 0.3; }
+    }
+    .border-animation {
+      animation: pulse 1.5s ease-in-out infinite;
+    }
+  </style>
+  <!-- Background -->
+  <rect width="120" height="30" rx="4" fill="#0077B5" />
+  <!-- Animated White Border -->
+  <rect x="1" y="1" width="118" height="28" rx="3" 
+        fill="none" stroke="white" stroke-width="2" 
+        class="border-animation" />
+  <!-- LinkedIn Text -->
+  <text x="50" y="20" font-family="Arial, sans-serif" 
+        font-size="14" fill="white" font-weight="bold">
+    LinkedIn
+  </text>
+</svg>
